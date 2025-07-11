@@ -1,6 +1,9 @@
 # 🏫 Site UNES
 
 Este é um projeto fictício para a criação de um site institucional da faculdade **UNES**. O objetivo deste projeto foi demonstrar habilidades em **HTML** para estruturar uma página web informativa, sem utilização de CSS ou JavaScript externos.
+<img width="1342" height="619" alt="index" src="https://github.com/user-attachments/assets/1cecfa2a-f356-45f1-8bc0-9d5afb37f82b" />
+<img width="1341" height="594" alt="quem-somos" src="https://github.com/user-attachments/assets/87f99f9d-dab2-4cc0-b942-dfce5a37b43d" />
+<img width="1355" height="527" alt="contato" src="https://github.com/user-attachments/assets/c73204fd-e5ee-4a58-bb0c-a1bff9eb8957" />
 
 ---
 
