@@ -5,6 +5,7 @@ Este é um projeto fictício para a criação de um site institucional da faculd
 <img width="1341" height="594" alt="quem-somos" src="https://github.com/user-attachments/assets/87f99f9d-dab2-4cc0-b942-dfce5a37b43d" />
 <img width="1355" height="527" alt="contato" src="https://github.com/user-attachments/assets/c73204fd-e5ee-4a58-bb0c-a1bff9eb8957" />
 
+Para visualização do projeto acesse: https://lgdaa.github.io/projeto-site-unes/
 ---
 
 ## 🧪 Tecnologias Utilizadas
